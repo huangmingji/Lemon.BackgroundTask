@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TBVX60J/slzDwpCCji8SQOZMuBkmOhtRjYvOnAEgNeo=",
+  "Source": "Lemon.BackgroundTask.Web",
+  "BasePath": "_content/Lemon.BackgroundTask.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

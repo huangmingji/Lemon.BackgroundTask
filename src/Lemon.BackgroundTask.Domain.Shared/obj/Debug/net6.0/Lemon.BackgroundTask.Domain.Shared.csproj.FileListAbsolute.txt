@@ -1,0 +1,12 @@
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.deps.json
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/bin/Debug/net6.0/ref/Lemon.BackgroundTask.Domain.Shared.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.pdb
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.csproj.AssemblyReference.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.AssemblyInfoInputs.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.AssemblyInfo.cs
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.csproj.CoreCompileInputs.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/obj/Debug/net6.0/ref/Lemon.BackgroundTask.Domain.Shared.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.pdb

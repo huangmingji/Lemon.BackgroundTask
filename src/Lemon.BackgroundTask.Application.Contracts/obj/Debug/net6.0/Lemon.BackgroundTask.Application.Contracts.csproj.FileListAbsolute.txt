@@ -1,0 +1,17 @@
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/bin/Debug/net6.0/Lemon.BackgroundTask.Application.Contracts.deps.json
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/bin/Debug/net6.0/Lemon.BackgroundTask.Application.Contracts.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/bin/Debug/net6.0/ref/Lemon.BackgroundTask.Application.Contracts.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/bin/Debug/net6.0/Lemon.BackgroundTask.Application.Contracts.pdb
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.pdb
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.pdb
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/obj/Debug/net6.0/Lemon.BackgroundTask.Application.Contracts.csproj.AssemblyReference.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/obj/Debug/net6.0/Lemon.BackgroundTask.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/obj/Debug/net6.0/Lemon.BackgroundTask.Application.Contracts.AssemblyInfoInputs.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/obj/Debug/net6.0/Lemon.BackgroundTask.Application.Contracts.AssemblyInfo.cs
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/obj/Debug/net6.0/Lemon.BackgroundTask.Application.Contracts.csproj.CoreCompileInputs.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/obj/Debug/net6.0/Lemon.BackgroundTask.Application.Contracts.csproj.CopyComplete
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/obj/Debug/net6.0/Lemon.BackgroundTask.Application.Contracts.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/obj/Debug/net6.0/ref/Lemon.BackgroundTask.Application.Contracts.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Application.Contracts/obj/Debug/net6.0/Lemon.BackgroundTask.Application.Contracts.pdb

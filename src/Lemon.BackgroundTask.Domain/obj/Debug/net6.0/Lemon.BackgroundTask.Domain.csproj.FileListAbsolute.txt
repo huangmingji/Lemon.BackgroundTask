@@ -1,0 +1,15 @@
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.deps.json
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/bin/Debug/net6.0/ref/Lemon.BackgroundTask.Domain.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.pdb
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.pdb
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.csproj.AssemblyReference.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.AssemblyInfoInputs.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.AssemblyInfo.cs
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.csproj.CoreCompileInputs.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.csproj.CopyComplete
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/obj/Debug/net6.0/ref/Lemon.BackgroundTask.Domain.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/obj/Debug/net6.0/Lemon.BackgroundTask.Domain.pdb

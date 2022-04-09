@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/Lemon.BackgroundTask.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/Lemon.BackgroundTask.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/Lemon.BackgroundTask.Domain.Shared.csproj",
+        "projectName": "Lemon.BackgroundTask.Domain.Shared",
+        "projectPath": "/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/Lemon.BackgroundTask.Domain.Shared.csproj",
+        "packagesPath": "/Users/huangmingji/.nuget/packages/",
+        "outputPath": "/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huangmingji/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Lemon.Common": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/Lemon.BackgroundTask.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/Lemon.BackgroundTask.Domain.csproj",
+        "projectName": "Lemon.BackgroundTask.Domain",
+        "projectPath": "/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/Lemon.BackgroundTask.Domain.csproj",
+        "packagesPath": "/Users/huangmingji/.nuget/packages/",
+        "outputPath": "/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huangmingji/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/Lemon.BackgroundTask.Domain.Shared.csproj": {
+                "projectPath": "/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.Domain.Shared/Lemon.BackgroundTask.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Lemon.Common": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

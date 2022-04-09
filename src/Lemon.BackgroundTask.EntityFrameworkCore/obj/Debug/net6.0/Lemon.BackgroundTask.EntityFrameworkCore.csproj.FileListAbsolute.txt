@@ -1,0 +1,17 @@
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/bin/Debug/net6.0/Lemon.BackgroundTask.EntityFrameworkCore.deps.json
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/bin/Debug/net6.0/Lemon.BackgroundTask.EntityFrameworkCore.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/bin/Debug/net6.0/ref/Lemon.BackgroundTask.EntityFrameworkCore.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/bin/Debug/net6.0/Lemon.BackgroundTask.EntityFrameworkCore.pdb
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.pdb
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/bin/Debug/net6.0/Lemon.BackgroundTask.Domain.Shared.pdb
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/obj/Debug/net6.0/Lemon.BackgroundTask.EntityFrameworkCore.csproj.AssemblyReference.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/obj/Debug/net6.0/Lemon.BackgroundTask.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/obj/Debug/net6.0/Lemon.BackgroundTask.EntityFrameworkCore.AssemblyInfoInputs.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/obj/Debug/net6.0/Lemon.BackgroundTask.EntityFrameworkCore.AssemblyInfo.cs
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/obj/Debug/net6.0/Lemon.BackgroundTask.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/obj/Debug/net6.0/Lemon.BackgroundTask.EntityFrameworkCore.csproj.CopyComplete
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/obj/Debug/net6.0/Lemon.BackgroundTask.EntityFrameworkCore.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/obj/Debug/net6.0/ref/Lemon.BackgroundTask.EntityFrameworkCore.dll
+/Users/huangmingji/LemonProjects/Lemon.BackgroundTask/src/Lemon.BackgroundTask.EntityFrameworkCore/obj/Debug/net6.0/Lemon.BackgroundTask.EntityFrameworkCore.pdb
